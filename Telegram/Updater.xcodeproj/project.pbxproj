@@ -229,7 +229,7 @@
 		07084681195445A600B5AE3A /* Build configuration list for PBXNativeTarget "Updater" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				07084682195445A600B5AE3A /* Debug */,
+			hacksssssssssssssssssssssssssssssssssssssssssss
 				07084683195445A600B5AE3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
